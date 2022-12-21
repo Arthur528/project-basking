@@ -13,12 +13,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "@types/node": "^18.11.17",
+    "concurrently": "^5.1.0",
+    "typescript": "^4.9.4"
   },
   "dependencies": {
     "apollo-server-express": "^2.15.0",
     "express": "^4.18.2",
     "express-graphql": "^0.12.0",
     "graphql": "^15.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur528/project-basking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arthur528/project-basking/issues"
+  },
+  "homepage": "https://github.com/Arthur528/project-basking#readme"
 }
